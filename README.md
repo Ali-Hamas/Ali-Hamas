@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#n8n">
-        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" alt="n8n" />
+        <img src="https://cdn.simpleicons.org/n8n/FF6560" width="48" height="48" alt="n8n" />
       </a>
       <br>n8n
     </td>
@@ -67,19 +67,19 @@
   <tr>
     <td align="center" width="96">
       <a href="#langchain">
-        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain" />
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
       </a>
       <br>LangChain
     </td>
     <td align="center" width="96">
       <a href="#crewai">
-        <img src="https://github.com/joaomdmoura/crewAI/raw/main/docs/static/img/crewai_logo.png" width="48" height="48" alt="CrewAI" />
+        <img src="https://github.com/crewAIInc.png?size=200" width="48" height="48" alt="CrewAI" />
       </a>
       <br>CrewAI
     </td>
     <td align="center" width="96">
       <a href="#make">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Make_logo_2024.svg" width="48" height="48" alt="Make" />
+        <img src="https://cdn.simpleicons.org/make/6F33F2" width="48" height="48" alt="Make" />
       </a>
       <br>Make.com
     </td>
