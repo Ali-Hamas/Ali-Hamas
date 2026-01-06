@@ -1,84 +1,142 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Ali Hamas AI Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Ali%20Hamas&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Agentic%20AI%20Engineer&descAlignY=70&descSize=20&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
-<br />
-
 <div align="center">
-  <a href="https://github.com/Ali-Hamas">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=1000&height=70&lines=BUILDING+INTELLIGENT+AI+SYSTEMS;ALI+HAMAS%3A+AI+ENGINEER;SCALABLE+%E2%80%A2+SECURE+%E2%80%A2+SMART" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/alihamas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ali-Hamas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<div align="center">
-  <h3>
-    Building Autonomous Agents | Orchestrating Large Language Models | Automating the World
-  </h3>
-</div>
-
-<br />
-<hr />
 <br />
 
-<h1 align="center">🛠️ THE ARSENAL</h1>
-
-<h2 align="center">🧠 GENERATIVE AI & LLM ORCHESTRATION</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/CREW_AI-FB4833?style=for-the-badge&logo=openai&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/LANGGRAPH-2C3E50?style=for-the-badge&logo=network&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" height="35" />
-  <br />
-  <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/OPENROUTER-7F52FF?style=for-the-badge&logo=bouyguestelecom&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/ELEVENLABS-000000?style=for-the-badge&logo=applepodcasts&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/LANGFLOW-FF4B4B?style=for-the-badge&logo=link&logoColor=white" height="35" />
-</div>
+<h3>👨‍💻 About Me</h3>
+<blockquote>
+  <b>I build systems that think and do.</b><br />
+  I blend strong backend engineering (Node, Python) with cutting-edge <b>Agentic AI</b> to create intelligent, autonomous software. From Dockerized microservices to complex n8n automation flows, I turn ambitious ideas into production-grade reality.
+</blockquote>
 
 <br />
 
-<h2 align="center">⚙️ DEVOPS & AUTOMATION</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/N8N-FF6584?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/MAKE.COM-6F3FF5?style=for-the-badge&logo=make&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-</div>
+<h3>🛠️ Technical Arsenal</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#react">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#mysql">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#docker">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#python">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#n8n">
+        <img src="https://cdn.simpleicons.org/n8n/FF6560" width="48" height="48" alt="n8n" />
+      </a>
+      <br>n8n
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#langchain">
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <a href="#crewai">
+        <img src="https://github.com/crewAIInc.png?size=200" width="48" height="48" alt="CrewAI" />
+      </a>
+      <br>CrewAI
+    </td>
+    <td align="center" width="96">
+      <a href="#make">
+        <img src="https://cdn.simpleicons.org/make/6F33F2" width="48" height="48" alt="Make" />
+      </a>
+      <br>Make.com
+    </td>
+    <td align="center" width="96">
+      <a href="#js">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JS" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<h2 align="center">💻 FULL STACK & DATA</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" />
-  <br />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35" />
-</div>
+<h3>🚀 Featured Deployments</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Stack</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Ali-Hamas/OpenRouter_Model_Arena">OpenRouter Arena 🤖</a></b></td>
+      <td><code>Python</code> <code>React</code> <code>LLMs</code></td>
+      <td>Compare 3 AI models side-by-side to test reasoning & speed.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Ali-Hamas/N8N-Motivatinoal-Post-Genrator">N8N Auto-Poster ⚡</a></b></td>
+      <td><code>n8n</code> <code>Node.js</code> <code>Google APIs</code></td>
+      <td>Fully automated content pipeline: Sheets → AI → Socials.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Ali-Hamas/Simple-Chatbot-assistant-with-voice">Voice Assistant 🎙️</a></b></td>
+      <td><code>JS</code> <code>Voice API</code> <code>HTML</code></td>
+      <td>Real-time AI assistant capable of voice interaction.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Ali-Hamas/Data-Visualization-App">Data Viz Engine 📊</a></b></td>
+      <td><code>Python</code> <code>Pandas</code> <code>Docker</code></td>
+      <td>Turn raw CSV data into interactive charts instantly.</td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
-<hr />
-<br />
-
-<h1 align="center">📈 PERFORMANCE METRICS</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Ali Hamas Stats" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamas&theme=tokyonight&hide_border=true&background=0d1117" alt="Ali Hamas Streak" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ali Hamas Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Hamas&style=for-the-badge&color=2196F3&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
